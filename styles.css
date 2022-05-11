@@ -1,0 +1,46 @@
+
+
+body {
+    background: white;
+    color: hsl(214, 64%, 34%);
+  }
+
+
+  div.dice {
+    position:relative; bottom: 500px; left: 100px;
+    font-size: 30px;
+    border: #288ada 2px solid;
+    width: 30px;
+    text-align: center;
+}
+div.rollDice {
+    position:relative; bottom: 800px; left: 100px;
+    width: 30px;
+    text-align: center;
+}
+
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  
+  table.middle {
+    margin-left: auto; 
+    margin-right: auto;
+  }
+  
+  th, td {
+    text-align:left;
+    padding-left: 50px;
+    padding-bottom: 60px;
+  }
+
+  tr:nth-child(even){background-color: rgb(117, 184, 247)}
+
+  tr:nth-child(odd){background-color: #94e764}
+
+
+  
+  div.african {
+    position:relative; bottom: 160px; right: 30px;
+  }

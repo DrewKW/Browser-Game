@@ -1,0 +1,19 @@
+{
+  "name": "browser-game",
+  "version": "1.0.0",
+  "description": "A fun rolling the dice 'Snakes & Ladders' game!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrewKW/Browser-Game.git"
+  },
+  "author": "DrewKW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrewKW/Browser-Game/issues"
+  },
+  "homepage": "https://github.com/DrewKW/Browser-Game#readme"
+}
